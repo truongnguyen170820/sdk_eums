@@ -4,7 +4,7 @@
 library counter;
 
 export 'package:sdk_eums/api_eums_offer_wall/eums_offer_wall_service.dart';
-export 'package:sdk_eums/eum_app_offer_wall/eums_app.dart';
+export 'package:sdk_eums/eum_app_offer_wall/eums_app_i.dart';
 // export adds contents of another Library to this Library's namespace
 // here we are adding all content (accessible from outside the library) from
 // the material library

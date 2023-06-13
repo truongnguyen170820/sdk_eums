@@ -11,6 +11,7 @@ class SdkEums {
   SdkEumsPermission permission = SdkEumsPermission.instant;
 
   void init({required Function() onRun}) async {
+
     WidgetsFlutterBinding.ensureInitialized();
     // await Firebase.initializeApp();
     // NotificationConfig.instant.init();
