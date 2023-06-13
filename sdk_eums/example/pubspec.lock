@@ -672,9 +672,9 @@ packages:
     dependency: "direct main"
     description:
       path: sdk_eums
-      ref: dev
-      resolved-ref: "73ce2b7b70a7eeb14161c08276e576e6703b5516"
-      url: "https://github.com/Greenapp02/sdk_eums.git"
+      ref: HEAD
+      resolved-ref: c90acf678190d9ce24eee5c7e1fa61e7be2ca129
+      url: "https://github.com/truongnguyen170820/sdk_eums.git"
     source: git
     version: "0.0.3"
   sdk_eums_c:

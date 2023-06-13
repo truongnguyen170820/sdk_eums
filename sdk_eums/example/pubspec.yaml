@@ -26,8 +26,7 @@ dependencies:
     # the parent directory to use the current plugin's version.
     # path: ../
     git:
-      url: https://github.com/Greenapp02/sdk_eums.git
-      ref: dev
+      url: https://github.com/truongnguyen170820/sdk_eums.git
       path: sdk_eums
 
   # The following adds the Cupertino Icons font to your application.
